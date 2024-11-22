@@ -1,5 +1,4 @@
-# CS100 Project
-GitHub repository containing my final coding project for CS100 (Computational Problem Solving)
+A GitHub repository containing my final coding project for CS100 (Computational Problem Solving)
 
 The project involved making a numerical calculator inspired by the popular scientific computing tool Wolfram Alpha. 
 
